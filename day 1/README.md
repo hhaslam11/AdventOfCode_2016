@@ -1,0 +1,1 @@
+I know, I know... This code is terrible. Could be refactored a ton, but hey: I'm new to this whole "python" thing ;P
